@@ -1,7 +1,6 @@
 # Devcamp Portfolio Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+UP_UP_DOWN_DOWN_LEFT_RIGHT_LEFT_RIGHT_B_A_START.
 
 Things you may want to cover:
 
